@@ -1,0 +1,20 @@
+{
+    "keyboard_name": "VOID Micro",
+    "url": "https://github.com/victorlucachi/void_micro",
+    "maintainer": "Victor Lucachi",
+    "width": 4,
+    "height": 1,
+    "layouts": {
+        "layouts": {
+            "LAYOUT": {
+                "key_count": 4,
+                "layout": [
+                    {"x":0, "y":0},
+                    {"x":0, "y":1},
+                    {"x":0, "y":2},
+                    {"x":0, "y":3},
+                ]
+            }
+        }
+    }
+}

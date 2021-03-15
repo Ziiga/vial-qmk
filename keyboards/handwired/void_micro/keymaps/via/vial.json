@@ -1,0 +1,38 @@
+{
+    "name":"VOID Micro",
+    "vendorId":"0xF055",
+    "productId":"0x3536",
+    "lighting":"none",
+    "matrix":{
+      "rows":1,
+      "cols":4
+    },
+    "layouts":{
+      "keymap":[
+        [
+          "0,0\n\n\n\n\n\n\n\n\ne",
+          "0,0",
+          "0,1\n\n\n\n\n\n\n\n\ne"
+        ],
+        [
+          {
+            "y": 0.5,
+            "x": 1
+          },
+          "0,1"
+        ],
+        [
+          {
+            "x": 1
+          },
+          "0,2"
+        ],
+        [
+          {
+            "x": 1
+          },
+          "0,3"
+        ]
+      ]
+    }
+  }

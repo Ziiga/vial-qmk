@@ -1,0 +1,54 @@
+{
+    "name":"VOID9",
+    "vendorId":"0xF055",
+    "productId":"0x3534",
+    "lighting":"none",
+    "matrix":{
+      "rows":3,
+      "cols":3
+    },
+    "layouts":{
+      "labels":[
+          [
+              "Encoder",
+              "None",
+              "Left",
+              "Right",
+              "Both"
+          ]
+		],
+      "keymap":[
+        [
+          "0,0\n\n\n\n\n\n\n\n\ne",
+          "0,1\n\n\n\n\n\n\n\n\ne",
+          {
+            "x": 0.25
+          },
+          "0,0",
+          "0,1",
+          "0,2",
+          {
+            "x": 0.25
+          },
+          "1,0\n\n\n\n\n\n\n\n\ne",
+          "1,1\n\n\n\n\n\n\n\n\ne"
+        ],
+        [
+          {
+            "x": 2.25
+          },
+          "1,0",
+          "1,1",
+          "1,2"
+        ],
+        [
+          {
+            "x": 2.25
+          },
+          "2,0",
+          "2,1",
+          "2,2"
+        ]
+      ]
+    }
+  }
